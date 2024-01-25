@@ -1,3 +1,5 @@
+package Formas
+
 public class Quadrado extends FiguraGeometrica {
     private double lado;
 
