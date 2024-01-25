@@ -1,3 +1,5 @@
+package Formas
+
 public class Triangulo extends FiguraGeometrica {
     private double base;
     private double altura;
