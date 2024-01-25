@@ -1,3 +1,5 @@
+package Formas
+
 public class Retangulo extends FiguraGeometrica {
     private double comprimento;
     private double largura;
