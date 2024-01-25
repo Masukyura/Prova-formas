@@ -1,3 +1,5 @@
+package Formas
+
 public class main {
     public static void main(String[] args) {
         Quadrado quadrado = new Quadrado(5);
